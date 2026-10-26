@@ -1,0 +1,66 @@
+{
+  "torneo": "Mundial 2026",
+  "fase": "Final",
+  "rival": "Argentina",
+  "campeon": "España",
+  "entrenador": "Luis de la Fuente",
+  "alineacion_titular": {
+    "portero": "Unai Simón",
+    "defensas": [
+      "Pedro Porro",
+      "Cubarsí",
+      "Laporte",
+      "Cucurella"
+    ],
+    "centrocampistas": [
+      "Rodri",
+      "Fabián",
+      "Dani Olmo"
+    ],
+    "delanteros": [
+      "Lamine Yamal",
+      "Oyarzabal",
+      "Alex Baena"
+    ]
+  },
+  "sustituciones": [
+    {
+      "minuto": 62,
+      "sale": "Fabián Ruiz",
+      "entra": "Pedri"
+    },
+    {
+      "minuto": 62,
+      "sale": "Mikel Oyarzabal",
+      "entra": "Ferran Torres"
+    },
+    {
+      "minuto": 75,
+      "sale": "Álex Baena",
+      "entra": "Nico Williams"
+    },
+    {
+      "minuto": 75,
+      "sale": "Dani Olmo",
+      "entra": "Mikel Merino"
+    },
+    {
+      "minuto": 105,
+      "sale": "Rodri Hernández",
+      "entra": "Martín Zubimendi"
+    },
+    {
+      "minuto": 105,
+      "sale": "Aymeric Laporte",
+      "entra": "Eric García"
+    }
+  ],
+  "goles": [
+    {
+      "minuto": 106,
+      "autor": "Ferran Torres",
+      "asistencia": "Nico Williams",
+      "equipo": "España"
+    }
+  ]
+}
